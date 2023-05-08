@@ -7,3 +7,4 @@ src/QATLibrary.egg-info
 src/QATLibrary/__pycache__
 *.html
 *.xml
+src/QATLibrary/.DS_Store
